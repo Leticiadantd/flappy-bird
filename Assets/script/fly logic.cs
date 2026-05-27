@@ -10,6 +10,7 @@ public class flylogic : MonoBehaviour
         Debug.Log("SCRIPT RODANDO NO BIRD");
     }
 
+
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
